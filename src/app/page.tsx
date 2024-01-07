@@ -11,7 +11,7 @@ export default function Home() {
                 Hey There 👋
               </h3>
               <h1 className="lg:text-7xl text-5xl mt-6">
-                I'm Rudhra
+                {"I'm Rudhra"}
               </h1>
               <p className="mt-6 lg:text-xl text-md max-w-xl text-gray-400">
                 A passionate and skilled individual in the field of technology, I possess a deep love for all things tech-related and a strong desire to stay at the forefront of technological advancements
@@ -40,7 +40,7 @@ export default function Home() {
               <Link href="/contact-me">
                 <p className="underline">
 
-                  Let's Get Connected
+                  {`Let's Get Connected`}
                 </p>
               </Link>
 

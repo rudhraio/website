@@ -4,7 +4,7 @@ import Header from '@/components/header'
 
 export const metadata: Metadata = {
   title: 'Rudhra',
-  description: 'This is my Rudhra\'s website',
+  description: 'This is Rudhra\'s website',
   icons: "assets/images/favicon.svg"
 }
 
